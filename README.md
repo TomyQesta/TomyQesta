@@ -11,13 +11,7 @@
     <summary><h2 style="display: inline-block">Herramientas usadas👨🏻‍💻</h2></summary>
   </ul>
 </div>
-<!-- Connect with me -->
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,cpp,discord,github,html,java,mysql,py,vscode,&perline=14" />
-  </a>
-</p>
 
 ### ⚙️ &nbsp;GitHub Analytics
 
