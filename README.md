@@ -1,8 +1,11 @@
 <h1 align="center"><b>Hola , Soy Tomas Javier Cuesta </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-👽 SOBRE MI**
+👽 SOBRE MI
+</div>
 👨‍💻 Hola soy Tomas Cuesta
+</div>
 📖 Estudiante en la UNRC
+</div>
 🎮 Me gustan los videojuegos y en tiempos libres aparte de jugar seguro estoy modeando alguna cosa
 
 🧰 Herramientas
