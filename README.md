@@ -11,6 +11,12 @@
     <summary><h2 style="display: inline-block">Herramientas usadas👨🏻‍💻</h2></summary>
   </ul>
 </div>
+<!--tech stack icons-->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,cpp,discord,github,html,java,mysql,nodejs,py,ts,vscode&perline=14" />
+  </a>
+</p>
 
 
 ### ⚙️ &nbsp;GitHub Analytics
