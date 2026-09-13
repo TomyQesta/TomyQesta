@@ -8,7 +8,7 @@
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Herramientas usadas👨🏻‍💻</h2></summary>
+    <summary><h2 style="display: inline-block">TEGNOLOGIAS USADAS👨🏻‍💻</h2></summary>
   </ul>
 </div>
 <!--tech stack icons-->
@@ -17,6 +17,14 @@
     <img src="https://skillicons.dev/icons?i=git,cpp,discord,github,html,java,mysql,nodejs,py,ts,vscode&perline=14" />
   </a>
 </p>
+
+<!-- Connect with me -->
+<!--h2 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">CONTACTARME📫</h2></summary>
+  </ul>
+</div>
 
 
 ### ⚙️ &nbsp;GitHub Analytics
